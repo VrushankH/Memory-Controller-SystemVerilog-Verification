@@ -13,6 +13,7 @@
 //     (priority chosen and documented so the testbench/scoreboard
 //      can model the same behavior)
 //=====================================================================
+
 module mem_ctrl (
     input              clk,
     input              rst,
